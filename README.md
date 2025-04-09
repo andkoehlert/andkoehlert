@@ -34,9 +34,6 @@ Git • VS Code • Figma • Postman • NPM
 
 ## 📫 Get in Touch
 
-Feel free to connect or reach out if you want to collaborate or just chat about web dev!
-
-
 [📧 Email](andkoehlert@outlook.com)  
 [💼 LinkedIn](https://www.linkedin.com/in/akoehlert/)  
 
