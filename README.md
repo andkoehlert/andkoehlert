@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Andreas.
 
-I'm a web development student at **EASV**, passionate about **web development**, **content creation**, and crafting great **user experiences (UX)**.
+I'm a web development student at **EASV**, passionate about **web development**, **content creation**, and user experiences(UX).
 
 Currently, I'm especially interested in working with modern technologies like:
 - ⚙️ **Vue.js**
