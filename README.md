@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi there, I'm Andreas.
 
-<!--
-**andkoehlert/andkoehlert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web development student at **EASV**, passionate about **web development**, **content creation**, and crafting great **user experiences (UX)**.
 
-Here are some ideas to get you started:
+Currently, I'm especially interested in working with modern technologies like:
+- ⚙️ **Vue.js**
+- 🧠 **TypeScript**
+- 🌐 **Express**
+- 🔧 **Node.js**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+**Frontend:**  
+HTML • CSS • JavaScript • Vue
+
+**Backend:**  
+Node.js • Express • REST APIs
+
+**Tools & Workflow:**  
+Git • VS Code • Figma • Postman • NPM
+
+---
+
+## 🚀 What I'm Working On
+
+- Improving my TypeScript skills  
+- Building full-stack projects with Vue + Node  
+- Learning more about design systems and accessibility  
+- Creating content around web dev & UX tips
+
+---
+
+## 📫 Get in Touch
+
+Feel free to connect or reach out if you want to collaborate or just chat about web dev!
+
+
+[📧 Email](andkoehlert@outlook.com)  
+[💼 LinkedIn](https://www.linkedin.com/in/akoehlert/)  
+
+---
+
+
